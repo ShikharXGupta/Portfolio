@@ -13,7 +13,7 @@ function AboutCard() {
             <br /> I am a pre-final year student pursuing an B.Tech. Computer Science and Engineering with (Specialization in Artificial Intelligence and Machine Learning)
             in Vellore Institute Of Technology,Bhopal.
             <br />
-            Additionally, I am currently unemployed and working on my skills and currently open to work.
+            Additionally, I am currently working on my skills and currently open to work.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
